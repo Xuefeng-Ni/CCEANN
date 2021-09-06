@@ -1,5 +1,5 @@
 # CCEANN
-This project contains the demo code and detection resultss of CCEANN. 
+This project contains the demo code and defect samples of CCEANN. 
 
 Please send an email to nixuefeng@hnu.edu.cn to get the decompression password.
 
