@@ -1,7 +1,7 @@
 # CCEANN
 This project contains the demo code and defect samples of CCEANN. 
 
-Please send an email to nixuefeng@hnu.edu.cn to get the decompression password.
+The decompression password is hnu_cceann.
 
 If you find this project useful for your research, please use the following BibTeX entry.
 
